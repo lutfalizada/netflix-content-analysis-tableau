@@ -33,3 +33,4 @@ The United States produces the largest share of Netflix titles by a wide margin.
 
 ## Dashboard Preview
 
+![Netflix Dashboard](Netflix Content Analysis Dashboard.png)
