@@ -10,7 +10,7 @@ Key insights analyzed:
 • Top countries producing Netflix content  
 
 Tableau Dashboard:
-https://public.tableau.com/views/netflix-content-analysis/NetflixContentAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/netflix-content-analysis/NetflixContentAnalysisDashboard
 
 ## Key Insights
 ### 1. Movies dominate the Netflix catalog
@@ -25,3 +25,11 @@ Genres related to **Dramas**, **International Movies**, and **Documentaries** ap
 
 ### 4. The United States leads content production
 The United States produces the largest share of Netflix titles by a wide margin. Other significant contributors include **India**, **United Kingdom**, and **South Korea**, showing Netflix's growing international production strategy.
+
+## Tools Used
+
+- Tableau (data visualization and dashboard design)
+- Public Netflix dataset (CSV format)
+
+## Dashboard Preview
+
